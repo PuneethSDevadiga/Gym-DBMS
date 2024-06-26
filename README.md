@@ -103,10 +103,6 @@ Gym Management System is an administrative interface for the records of the gym,
 - word document - TO VIEW [click here](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/Gym%20Management%20System%20Report.docx) - TO DOWNLOAD [click here](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/raw/master/Gym%20Management%20System%20Report.docx)
 - pdf document - TO VIEW [click here](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/Gym%20Management%20System%20Report.pdf) - TO DOWNLOAD [click here](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/raw/master/Gym%20Management%20System%20Report.pdf)
 
-### CONTRIBUTING
-
-Please read [CONTRIBUTING](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ### LICENSE
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/LICENSE) file for details
